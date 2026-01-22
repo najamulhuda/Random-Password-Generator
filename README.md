@@ -27,7 +27,7 @@ A lightweight, secure browser-based password generator that creates strong rando
 
 ## Demo
 
-[Live Demo]([#](https://github.com/najamulhuda/Random-Password-Generator/settings/pages)) <!-- Add your GitHub Pages or deployment link here -->
+[Live Demo](https://github.com/najamulhuda/Random-Password-Generator/settings/pages) <!-- Add your GitHub Pages or deployment link here -->
 
 ## Screenshots
 
