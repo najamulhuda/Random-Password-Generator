@@ -27,11 +27,11 @@ A lightweight, secure browser-based password generator that creates strong rando
 
 ## Demo
 
-[Live Demo](https://github.com/najamulhuda/Random-Password-Generator/settings/pages) <!-- Add your GitHub Pages or deployment link here -->
+[Live Demo](https://najamulhuda.github.io/Random-Password-Generator/) <!-- Add your GitHub Pages or deployment link here -->
 
 ## Screenshots
 
-![Password Generator Screenshot](./screenshot.png)
+![Password Generator Screenshot](./images/screenshot.png)
 <!-- Add your screenshot in the repository and update the path -->
 
 ## Technologies Used
